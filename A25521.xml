@@ -1,0 +1,458 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a late tract, entituled, An essay on the East-India trade</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25521</idno>
+            <idno type="STC">Wing A3311</idno>
+            <idno type="STC">ESTC R13047</idno>
+            <idno type="EEBO-CITATION">12934453</idno>
+            <idno type="OCLC">ocm 12934453</idno>
+            <idno type="VID">95738</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25521)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95738)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 730:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a late tract, entituled, An essay on the East-India trade</title>
+               </titleStmt>
+               <extent>[6], 46 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Cockerill ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Davenant, Charles, 1656-1714. --  Essay on the East India trade.</term>
+               <term>East India Company.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95738:1"/>
+            <pb facs="tcp:95738:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO A Late TRACT, ENTITULED, [<hi>An Eſſay on the</hi> Eaſt-India <hi>Trade.</hi>]</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. Cockerill,</hi> in <hi>Pater-Noſter Row,</hi> the Corner of <hi>Warwick-Lane.</hi> MDCXCVII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:95738:2"/>
+            <pb facs="tcp:95738:2"/>
+            <head>TO THE <hi>Clothiers</hi> and <hi>Weavers</hi> OF ENGLAND.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>THOUGH I love not Con<g ref="char:EOLhyphen"/>troverſies, nor have a ſtrength of Judgment to manage them, yet I readily embraced the motion of Anſwering a ſmall Tract, Entituled, <hi>An Eſſay on the</hi> Eaſt-India <hi>Trade,</hi>
+               <pb facs="tcp:95738:3"/>by the Author of the <hi>Eſſay upon Ways and Means;</hi> believing the Juſtneſs of the Cauſe would ſupply the Weakneſs of the Advocate. I muſt own the Author of that Eſſay hath ſet forth his Er<g ref="char:EOLhyphen"/>rors in Trade, as uſually they come forth in Religion, with the Allurements of Sublimer Knowledge, and more ad<g ref="char:EOLhyphen"/>vanc'd Practice in the Myſteries of Heaven, than are Taught by the Ancient Orthodox Diſcipline; ſo this Gentleman Argues for the Importation and Wear of <hi>Eaſt-India</hi> Manufactories to be the higheſt Improvement of our Trade and Navigation; the miſtake whereof the following Sheets explode. I therefore only mention here that which perfects the Simile before-men<g ref="char:EOLhyphen"/>tioned, That his Poſition is Erroneous and New; the <hi>Eaſt-India</hi> Trade ha<g ref="char:EOLhyphen"/>ving been Profitable to the Nation before the vaſt Importation of <hi>Indian</hi> Manufactories, and the contrary now
+<pb facs="tcp:95738:3"/>the Nation is deluded by the Gaiety and Cheapneſs of them, as it is im<g ref="char:EOLhyphen"/>poſed upon when they are told, That they are a great Improvement to Trade, and below the exalted Genius of a Rich Nation, as we are, to take up with Home-bred Manufactories; all this I take to be a moſt pernicious Hereſy in Trade, and ſubmit my Ar<g ref="char:EOLhyphen"/>guments in the following Pages to prove it ſo, to the Conſideration of better Heads.</p>
+            <p>I ſhall add no more here, but pray your leave to caution againſt a fault too general in our Nation, that is, To treat Men that differ with us in Judgment, as Enemies either to our Perſons or Intereſt; this often makes ſome ſo that were not, but never brings over them that are.</p>
+            <p>I know ſome of the firſt Magni<g ref="char:EOLhyphen"/>tude,
+<pb facs="tcp:95738:4"/>both in Quality and Judgment, of different Opinion in the <hi>Eaſt-In<g ref="char:EOLhyphen"/>dia</hi> Trade, yet as entirely in the In<g ref="char:EOLhyphen"/>tereſt of the Nation, as we that differ from them in this Point.</p>
+            <p>If I may preſume to adviſe you, and that you gain your reaſonable deſire, uſe it as a Victory only over the Subjects of the <hi>Mogul,</hi> and not over your Brethren.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:95738:4"/>
+            <head>AN ANSWER TO A Late TRACT, ENTITULED, [<hi>An Eſſay on the</hi> Eaſt-India <hi>Trade.</hi>]</head>
+            <p>I Think it as much a Right to ac<g ref="char:EOLhyphen"/>knowledge the Truths of the Author of theſe Eſſays, as it is to ſhew his Miſtakes.</p>
+            <p>I muſt therefore firſt own, he hath with good Judgment expreſſed the great Ad<g ref="char:EOLhyphen"/>vantage it is for Miniſters of State to have a true Knowledge in the Trade of the Nation; and it is too true that <hi>Richlieu</hi> left behind him ſuch Schemes for Trade
+<pb n="2" facs="tcp:95738:5"/>and Navigation, as hath, and 'tis yet to be fear'd, will advance the <hi>French</hi> Power more than their Arms.</p>
+            <p>It is as great a Truth, that the Strength of an Iſland, as well as its Treaſure, de pends more on Trade and Navigation, than that of a Continent; the conſidera<g ref="char:EOLhyphen"/>tion whereof hath ofen prevailed with me to believe this Nation might ſooner bring <hi>France</hi> to its Ancient Bounds by our force in Trade and Navigation, than by our Arms; it will at leaſt be granted, that the Latter is not to be ſupported without the Former.</p>
+            <p>But to come to the foundation of his Arguments for the matter in Contro<g ref="char:EOLhyphen"/>verſy; he tells you in Page 8, That but a Fourth part of our Riches ariſe from the Vent of our own Commodities: This is ſo palpable a miſtake as can pro<g ref="char:EOLhyphen"/>ceed from nothing leſs than the want of the moſt common Rudiments of Trade; a fault too uſual among Men of Letters and Theory in Merchantine Affairs. Reading without Practice never makes a Merchant; and though I will not ſay Merchants are the beſt Governors of Trade (each one having a particular In<g ref="char:EOLhyphen"/>tereſt) yet, I think, I may affirm,
+<pb n="3" facs="tcp:95738:5"/>That they are the beſt Explainers of it.</p>
+            <p>This Gentleman, perhaps, had the Notion of the <hi>Dutch</hi> Trade in his Head when he wrote this; their Riches chiefly ariſing from Carriage, and improving the product of other Nations; but ours is not ſo, we are not always our own Carriers; and, to our ſhame, not the Ma<g ref="char:EOLhyphen"/>nufactorers of all our own Product.</p>
+            <p>But to make this miſtake of our Riches ariſing out of the Air appear, for he tells us not from whence it comes, let us conſider what brings our Trea<g ref="char:EOLhyphen"/>ſure, if our Manufactories, Lead, Tinn, and Leather, doth not; (for our Corn, though he names that as conſiderable in our Exports, is of no ſignification) Car<g ref="char:EOLhyphen"/>riage, as I ſaid before, we make no Gain by; Exports of Foreign Imports are not much; and if they were, yet their ori<g ref="char:EOLhyphen"/>ginal muſt ariſe from the purchaſe of our Native Product, and ſo doth even all we fetch from the <hi>Eaſt-Indies,</hi> but not by a direct means; if they were, the Com<g ref="char:EOLhyphen"/>plaints againſt that Trade would be the leſs; but they are purchaſed with the Money our Product brings from other Places, and the Returns from the <hi>Indies</hi> moſt conſumed at Home.</p>
+            <pb n="4" facs="tcp:95738:6"/>
+            <p>
+               <q> He proceeds farther and tells you, That whoever looks ſtrictly into our Affairs, that the Wealth <hi>England</hi> had once, did ariſe chiefly from two Articles, our Plan<g ref="char:EOLhyphen"/>tation, and our <hi>Eaſt-India</hi> Trade;</q> I muſt confeſs, our Plantation-Trade is the beſt we have left; but neither that, much leſs the <hi>Eaſt-India</hi> Trade, are the foundation of the Riches this Nation once had: Be<g ref="char:EOLhyphen"/>fore either of them were known, this Nation was opulent in its Commerce, if compared with its Neighbours; and our Woollen Manufactories brought us, as well as themſelves, to be courted by the then moſt Trading-People of <hi>Europe:</hi> Markets of which are to be ſeen in <hi>Ant<g ref="char:EOLhyphen"/>werp,</hi> and other parts, that now have loſt them; theſe our Woollen Manufactories brought us into that Noble Trade of <hi>Muſcovy</hi> and the <hi>Sound;</hi> which by the Effeminate Trade of the <hi>East Indies</hi> and <hi>Levant,</hi> we have in manner loſt. I muſt likewiſe mind this Gentleman of the <hi>Newfoundland</hi> Fiſhing, which brought home more ready Money than all the reſt; and the ſhew his miſtake in the original of our Riches, I deſire him to examine the <hi>Custom-Houſe</hi> Books, from the Year 1600 to the Year 1648; though they were then
+<pb n="5" facs="tcp:95738:6"/>but imperfectly kpet; and he will ſee his miſtake beyond the pretence of a Compu<g ref="char:EOLhyphen"/>tation. It is more than Twenty Years ſince I took that pains, and could name Particulars, but out of Reſpect to him I forbears.</p>
+            <p>I paſs over what he mentions from the <hi>8th</hi> to the <hi>12th</hi> Page, in which there are very uſeful Obſervations. He then in <hi>Pag.</hi> 12, 13, and 14. gives his Opinion, <q> That the Bill propoſed to prohibit the wearing <hi>Eaſt-Indian</hi> and <hi>Perſian</hi> wrought Silks, Bengalls, <hi>&amp;c.</hi> will be abſolutely deſtructive to the Trade, and very preju<g ref="char:EOLhyphen"/>dicial to the Kingdom; which two Points he will impartially handle.</q>
+            </p>
+            <p>He begins thus; <q>As to the <hi>Eaſt-India</hi> Trade in general, if all <hi>Europe</hi> by com<g ref="char:EOLhyphen"/>mon Conſent would agree to have no far<g ref="char:EOLhyphen"/>ther dealings to thoſe Parts, this ſide of the World by ſuch a Reſolution would certainly ſave a great and continual Ex<g ref="char:EOLhyphen"/>pence of Treaſure; for <hi>Europe</hi> draws from thence nothing of ſolid Uſe, Mate<g ref="char:EOLhyphen"/>rials to ſupply Luxury, and only periſh<g ref="char:EOLhyphen"/>able Commodities, and ſends thither Gold and Silver,</q> which is there barter'd: And concludes, <q>That of the Gold and Silver brought into <hi>Europe</hi> for Two hundred
+<pb n="6" facs="tcp:95738:7"/>years paſt, an Hundred and fifty Millions of it is ſunk in the <hi>Eaſt-Indies:</hi> From whence he concludes, That the <hi>European</hi> Nations in general had been Richer by a full Third, if that Trade had never been diſcover'd and undertaken.</q>
+            </p>
+            <p>
+               <q> But ſince <hi>Europe</hi> has taſted of this Luxury this Hundred Years, and their Silks are pleaſing every where, their Cal<g ref="char:EOLhyphen"/>licoes uſeful at home, and in our Planta<g ref="char:EOLhyphen"/>tions, and for the <hi>Spaniards</hi> in <hi>America,</hi> it can never be adviſable for <hi>England</hi> to quit that Trade.</q>
+            </p>
+            <p>Theſe are his Arguments for the <hi>Eaſt-India</hi> Trade in general; which is a collu<g ref="char:EOLhyphen"/>ſive way of arguing; That becauſe the Trade in general hath been a Profitable Trade, therefore this Bill againſt the Wear of ſome particular Commodities that are but of late crept in, will be de<g ref="char:EOLhyphen"/>ſtructive to the <hi>Eaſt-India</hi> Trade, which was a profitable Trade without them.</p>
+            <p>He fairly owns, That if <hi>Europe</hi> would by common conſent lay aſide the <hi>Eaſt-India</hi> Trade, it would certainly ſave a great and continual Expence of Treaſure. this ſeems to me to be againſt him, and for the Bill; and tho' we cannot, nor does it concern us to govern <hi>Europe</hi> in this
+<pb n="7" facs="tcp:95738:7"/>matter, yet it does to keep our part of the Treaſure that goes there; ſince he allows this Bill would prejudice that Trade, that is, prevent our ſending out ſo much Trea<g ref="char:EOLhyphen"/>ſure, which we think a Gain to keep at home, as he allows it would be in general to <hi>Europe.</hi> And indeed, it more imme<g ref="char:EOLhyphen"/>diately concerns this Nation, than all the reſt of <hi>Europe,</hi> becauſe all of them put together conſume not One fourth of thoſe Commodities this Bill prohibits, that we do; and that the <hi>Eaſt-India</hi> Company themſelves allow, in a Print of their own laſt Seſſions, which I then anſwer'd: The Words were theſe; <q>That if they were denied the Conſumption of thoſe Silks, <hi>&amp;c.</hi> mentioned in the Bill, they ſhould not be able to manage the <hi>Eaſt-India</hi> Trade, for that Three Fourths of them were conſumed in <hi>England.</hi>
+               </q> If they had ſaid Nine tenths of the Silks, they had not been miſtaken.</p>
+            <p>The other part of his Argument, That the uſe of theſe Luxuries for a hun<g ref="char:EOLhyphen"/>dred years, makes it not adviſable for <hi>England</hi> to quit the Trade; ſeems a Rea<g ref="char:EOLhyphen"/>ſon for doing it the ſooner, leſt the conti<g ref="char:EOLhyphen"/>nuance of time make the Miſchief formi<g ref="char:EOLhyphen"/>dable; as it indeed appears almoſt now,
+<pb n="8" facs="tcp:95738:8"/>by the Numbers concern'd in that Gain, which is got out of the Bowels of our Na<g ref="char:EOLhyphen"/>tive Poor; for ſo it is when the Money of the Rich is laid out the feed <hi>Indians</hi> abroad, and enrich men of unbounded deſires at home; for ſuch is the unlimited Gain by the <hi>Eaſt-India</hi> Trade, now they have de<g ref="char:EOLhyphen"/>bauch'd the Nation with Cobwebs and Cockle-ſhells, in return for their Gold and Silver; in which, tho' the Luxurious and Effeminate are made <hi>Indians,</hi> in their taking Glaſs-Beads for Gold, yet we muſt not think the Lords and Commons can be ſo impoſed upon; they will diſtinguiſh between the ſolid Manufactory of our Nation, and the Trinkets of the <hi>Mogul.</hi>
+            </p>
+            <p>In Page 14 he tells us, <q>The Burthen which this Commerce lays upon the Col<g ref="char:EOLhyphen"/>lective Body of <hi>Europe,</hi> does bear hard only upon thoſe Countries which conſume the <hi>Indian</hi> Commodities, without having any ſhare in the Traffick.</q>
+            </p>
+            <p>To this I anſwer, It is equally ſo to us, when we conſume more of them at home, than we ſend abroad of our Na<g ref="char:EOLhyphen"/>tive Commodities to purchaſe them; and I muſt ſay farther, that we are greater Sufferers by employing our own Ships and Men to fetch this Poyſon to us. I there<g ref="char:EOLhyphen"/>fore
+<pb n="9" facs="tcp:95738:8"/>think he miſtakes, in ſaying they on<g ref="char:EOLhyphen"/>ly are Loſers by the Conſumption of <hi>In<g ref="char:EOLhyphen"/>dian</hi> Commodities, that have no ſhare in the Traffick; I think they ſuffer leſs who have little brought to them, than we who are at the Charge of fetching whole Cargoes; and ſo take off our Ships and Men from more profitable Employ<g ref="char:EOLhyphen"/>ments.</p>
+            <p>He proceeds farther in Page 15. <q>That the <hi>Dutch</hi> and <hi>Engliſh,</hi> which together are not a Tenth Part of <hi>Europe,</hi> enjoy this Traffick almoſt without any Rivaliſhip; and if it be a Burthen, it lies not on the one, but on the other Nine parts.</q>
+            </p>
+            <p>Thus he endeavours to cover that part of the <hi>Eaſt-India</hi> Trade this Bill would relieve againſt, by advocating for the whole Trade, which is not now contro<g ref="char:EOLhyphen"/>verted.</p>
+            <p>He farther tells you, <q>That the carrying out of the Gold and Silver of <hi>Europe</hi> to the <hi>Eaſt-Indies,</hi> is from the <hi>French, Spa<g ref="char:EOLhyphen"/>niards, Germans,</hi> and <hi>Northern</hi> Crowns:</q> But I doubt he cannot prove they ſend out Money to pay for the Commodities we conſume of <hi>India,</hi> which this Bill is to prohibit the Wear of in <hi>England.</hi>
+            </p>
+            <pb n="10" facs="tcp:95738:9"/>
+            <p>He omits telling you, That the Impor<g ref="char:EOLhyphen"/>tation of them is not probitied ſo, but that we have free liberty of ſhipping them out to thoſe Countries he would make us believe conſume ſo much of them.</p>
+            <p>I believe he would be more ingenuous in this matter, if he underſtood the truth of this Trade, That <hi>France</hi> hath prohi<g ref="char:EOLhyphen"/>bited them all; the <hi>Northern</hi> Countries wear no <hi>Perſian</hi> Silks; the <hi>Germans</hi> very little; and tho' <hi>Holland</hi> hath more than Ten times the Trade we have to the <hi>East-Indies,</hi> yet the whole <hi>
+                  <g ref="char:V">Ʋ</g>nited Provinces</hi> conſume not ſo much of the Commodities this Bill reaches, as we do in one Pariſh in <hi>London.</hi> The <hi>Dutch</hi> are a more Fru<g ref="char:EOLhyphen"/>gal and Wiſe People; and the true rea<g ref="char:EOLhyphen"/>ſon why the <hi>Dutch</hi> have not taken up this Trade of <hi>Indian</hi> and <hi>Perſian</hi> Silks, as they did other Commodities, was becauſe they knew not where to ſell them.</p>
+            <p>We had a good Statute to prevent their Importation of any Commodities, but of their own Fabrick.</p>
+            <p>
+               <q> He goes on to Pag. 15, and 16, with the Computation of the <hi>Eaſt-India</hi> Ex<g ref="char:EOLhyphen"/>ports to be Four hundred thouſand Pounds, one Eighth part to be of our Na<g ref="char:EOLhyphen"/>tion's Product;</q> ſuppoſes to conſume at
+<pb n="11" facs="tcp:95738:9"/>home to the value of Two hundred thou<g ref="char:EOLhyphen"/>ſand Pounds; then ſaith, If the Compa<g ref="char:EOLhyphen"/>ny exports to other Nations (which, by the way, ſheweth he hath the hand of <hi>Joab</hi> in this matter, advocates for, and hath the <hi>Eaſt-India</hi> Company in theſe Arguments) the remainder of the other Two hundred thouſand Pounds, <hi>England</hi> muſt certainly be a great Gainer by this Traffick; for no one vers'd in Merchan<g ref="char:EOLhyphen"/>dizing will deny, but that the Returns from <hi>India</hi> of Two hundred thouſand Pounds, when exported to other Coun<g ref="char:EOLhyphen"/>tries, muſt increaſe the firſt Sum at leaſt Fourfold, and produce Eight hundred thouſand Pounds.</p>
+            <p>So that the Account of <hi>England</hi> with the <hi>Indies</hi> and <hi>European</hi> Nations, may be thus balanced:</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Returns exported yields</hi> per Ann.</cell>
+                     <cell>800,000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Returns conſum'd at home, are to the Nation,</hi>
+                     </cell>
+                     <cell>200,000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Total</hi>
+                     </cell>
+                     <cell>1,000,000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Deduct for the Prime Coſt of Bullion, or Manufactories ex<g ref="char:EOLhyphen"/>ported.</hi>
+                     </cell>
+                     <cell>400,000</cell>
+                  </row>
+                  <row>
+                     <cell>England<hi>'s Neat Gain by this Traffick,</hi>
+                     </cell>
+                     <cell>600,000</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="12" facs="tcp:95738:10"/>
+            <p>From this Computation is to be ob<g ref="char:EOLhyphen"/>ſerv'd, That if it were right, the <hi>Eaſt-India</hi> Company would not have been ſo low in Stock as they were before the War: But that which hath relation to the Pro<g ref="char:EOLhyphen"/>hibition in the Bill, is what I would keep unto; tho' this Gentleman in all his Diſ<g ref="char:EOLhyphen"/>courſe runs upon the Trade in general, there being ſomething to argue upon, but in truth nothing for the Wear of <hi>Eaſt-India</hi> Commodities: But to return to this laſt Computation of what is conſumed at home; by the beſt Calculations I have met with of the <hi>Eaſt-India</hi> Sales, not one fourth have been for many years paſt ex<g ref="char:EOLhyphen"/>ported. But if what this Gentleman af<g ref="char:EOLhyphen"/>firms (for ſo he doth with ſome aſſurance) be Matter of Fact, and that the Con<g ref="char:EOLhyphen"/>ſumption be ſo ſmall as Two hundred thouſand Pounds of Eight hundred thou<g ref="char:EOLhyphen"/>ſand Pounds, how comes the Trade to de<g ref="char:EOLhyphen"/>pend ſo much upon the Wear of the <hi>Per<g ref="char:EOLhyphen"/>ſian</hi> Silks, Bengalls, <hi>&amp;c.</hi> which by his Computation cannot amount to more than One hundred thouſand Pounds <hi>per Ann</hi> for that the Coffee, Tea, China, Drugs, Salt-Petre, and other Trinkets, cannot amount to leſs than an Hundred thouſand Pounds, and he allows but
+<pb n="13" facs="tcp:95738:10"/>Two hundred thouſand Pounds to the whole.</p>
+            <p>Thus far I cannot ſee ſo much as a Pre<g ref="char:EOLhyphen"/>tence for this Bill's deſtroying the <hi>Eaſt-India</hi> Trade.</p>
+            <p>In <hi>Page</hi> 17. he tells you, <q>By the In<g ref="char:EOLhyphen"/>ſpection he hath made into the general State and Condition of this Kingdom, the <hi>Eaſt-India</hi> Trade did annually add to the Groſs Stock of <hi>England</hi> Six hundred thouſand Pounds <hi>per Ann</hi> and bounds his Time from 1656 to the year 1688.</q> If this be ſo, then it is apparent that the <hi>Eaſt-India</hi> Trade wants not this Con<g ref="char:EOLhyphen"/>ſumption of <hi>Eaſt-Indian</hi> Silks, ſo much ſtruggled for; there being no conſiderable uſe of them for many years of his Com<g ref="char:EOLhyphen"/>putation.</p>
+            <p>I would, if it might conſiſt with an<g ref="char:EOLhyphen"/>ſwering the Subject he undertakes, paſs over his Computations and Concluſions in Trade, becauſe I never ſaw a Collection ſo generally miſtaken; and, that he may not take offence, ſay he hath not been well uſed, if he took his meaſures from men converſant in the Practick of Trade; but if he conſulted only with men of Specu<g ref="char:EOLhyphen"/>lation, who gather from Papers, he might well run into ſuch Miſtakes as he ſets
+<pb n="14" facs="tcp:95738:11"/>down; That from the year 1656 to 1688, the Nation every year increas'd at leaſt Two Millions <hi>per Ann;</hi> he ſhould have caſt up what that amounts unto in the whole, which is Sixty four Millions; ſomething he muſt allow we had before; I wonder what is become of his Sixty four Millions, I cannot think the Nation hath loſt ſo much this War, and yet I believe we are not much better in our Capital, than we were in the year 1656. I wiſh we were ſo well.</p>
+            <p>He goes on farther, and gives the grounds of his aſſurance in this matter, by Particulars in Page 18. thus;</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>From our Manufactories, and Home Product ſent to the Plantations, and from the Returns exported to Foreign Parts,</hi>
+                     </cell>
+                     <cell>900,000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>From our Woollen Manufacto<g ref="char:EOLhyphen"/>ries, Lead, Tin, I eather, and our own Native Product ſent to</hi> France, Spain, Ita<g ref="char:EOLhyphen"/>ly, Germany, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>500,000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>From the Neat Profit accruing by the</hi> Eaſt-India <hi>Trade,</hi>
+                     </cell>
+                     <cell>600,000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Total</hi>
+                     </cell>
+                     <cell>2000,000</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="15" facs="tcp:95738:11"/>
+            <p>By theſe Particulars one may think he conſulted neither with Men of Specula<g ref="char:EOLhyphen"/>tion nor Converſation in Trade; if he had, ſure they would have told him, That for ſome Years of his Computation, that is, from 1656 to 1660, our Planta<g ref="char:EOLhyphen"/>tion Trade was not one half it hath riſen to ſince; nor did in the higheſt of their Trade ever add Four hundred thouſand Pounds clear Gain to the Nation, beſide the Conſumption at home; for that he allows.</p>
+            <p>He huddles up in his ſecond Article the Woollen Manufactory, Lead, Tin, Lea<g ref="char:EOLhyphen"/>ther, and our Native Product, and makes it but Five hundred thouſand Pounds; which tho' it might be made appear to be a large Computation, yet certainly the ſolid Riches and Stock of the Nation is raiſed more by this Article of 500000 <hi>l.</hi> than by his other two which he makes 1500000 <hi>l.</hi>
+            </p>
+            <p>His laſt Article of 600000 <hi>l.</hi> gained by the <hi>Eaſt India</hi> Trade, he amplifies with a Certainty, and calls it the Neat Profit ac<g ref="char:EOLhyphen"/>cruing by the <hi>Eaſt-India</hi> Trade. The other two Articles before-mentioned, as he words them, there is room to get off; but on this of the <hi>Eaſt-India</hi> Trade he
+<pb n="16" facs="tcp:95738:12"/>pitches his Banner, reſolving to ſtand by it; and I think it makes for the Bill to have it ſo, and therefore I have no rea<g ref="char:EOLhyphen"/>ſon to conteſt it; all I ſay, is, If the Na<g ref="char:EOLhyphen"/>tion find but half it, I perſuade my ſelf they would think it a good Trade with<g ref="char:EOLhyphen"/>out thoſe Silks; and therefore no need to ſtarve our own Weavers to ſupport it.</p>
+            <p>I have hitherto as tenderly handled this Gentleman's Notorious Errors, as was poſſible to do with anſwering them; and this I did, becauſe I believed them Errors in Judgment, or miſtaken Concluſions of what he gathered from other men, as it is uſual in matter of Trade, where men write by Eccho, having no more than the Return of their own Words, where they make Enquiries. I take it to be the firſt part of true Information on any Subject, to ask pertinent Queſtions; which no man can do in Commerce, who hath no<g ref="char:EOLhyphen"/>thing of the Practick; this Conſideration obliged me in favour of the Author to co<g ref="char:EOLhyphen"/>ver as much as I could his Miſtakes hither<g ref="char:EOLhyphen"/>to; but now I muſt beg his Pardon, to be more plain in Reply to what he mentions in Page 18, to Page 34; becauſe he broaches in them ſuch Doctrines, that if they ſhould gain Credit, would not only
+<pb n="17" facs="tcp:95738:12"/>ſtarve Weavers, but Seamen; and to pur<g ref="char:EOLhyphen"/>chaſe the Luxuries of <hi>India,</hi> leave this Kingdom open to the <hi>French;</hi> whom I think all honeſt men will allow we have more reaſon to fear, than the <hi>Dutch</hi> he ſo much dreads.</p>
+            <p>His Words are theſe:</p>
+            <p>
+               <hi>Whatever Countrey can be in the full and undiſputed Poſſeſſion of it</hi> (meaning the <hi>Eaſt-India</hi> Trade) <hi>will give Law to all the Comercial World.</hi>
+            </p>
+            <p>
+               <hi>Should we quit the hold we have in</hi> India, <hi>and abandon the Traffick, our Neighbours the</hi> Dutch <hi>will undoubtedly engroſs the whole. And if to their Naval Strength in</hi> Europe <hi>be added, ſuch a Foreign Wealth and Strength</hi> England <hi>muſt hereafter be contented to trade by their Protection, and under their Banner.</hi> In Page 21. he tells us, <hi>Perſons without doors either bribed by the</hi> Dutch, <hi>or to flatter that Intereſt, profeſs themſelves open Ene<g ref="char:EOLhyphen"/>mies to the Traffick in general.</hi> And to confirm theſe frightful Omens of his own Brain, he binds up all with a Prediction, in theſe words; <hi>I hope your Lordſhips will hereafter remember this Prediction of mine, That</hi> England <hi>will thereby loſe Half its Fo<g ref="char:EOLhyphen"/>reign Trade.</hi> In this he ſhews himſelf a more merciful Prophet, than he was be<g ref="char:EOLhyphen"/>fore
+<pb n="18" facs="tcp:95738:13"/>a true Calculator; where he ſaith, <hi>England</hi> would be obliged to Trade by the Protection of the <hi>Dutch,</hi> and under their Banners; but now he allows we may have Half our Trade left us. But I ſhall an<g ref="char:EOLhyphen"/>ſwer each of theſe Concluſions apart.</p>
+            <p>Firſt, <hi>That whoever hath the full Poſſeſ<g ref="char:EOLhyphen"/>ſion of the</hi> Eaſt-India <hi>Trade, will give Laws to all the Commercial World.</hi>
+            </p>
+            <p>Firſt, It ſeems impoſſible for any one Nation to engroſs the Trade of that vaſt Empire of the <hi>Great Mogul.</hi> The <hi>Portu<g ref="char:EOLhyphen"/>gueſe, Dutch, French, Engliſh, Danes,</hi> &amp;c. and now the <hi>Scotch,</hi> are concerned in that Trade; and it is not reaſonable to believe the <hi>Mogul</hi> will admit any one of them to engroſs the whole, to the excluding the reſt: But granting an Impoſſibility, how will it affect the whole Trade of the World? great part of which are Stran<g ref="char:EOLhyphen"/>gers to the uſe of any <hi>Eaſt-India</hi> Commo<g ref="char:EOLhyphen"/>dity; and thoſe few that confume a little Spice, and perchance ſome few Calicoes, are not cloathed with <hi>Perſian</hi> Silks, not are their Houſes adorned with <hi>China</hi> Cups, or <hi>Japan</hi> Cabinets.</p>
+            <pb n="19" facs="tcp:95738:13"/>
+            <p>I remember a Gentleman that pleaſed himſelf to Write much of Trade, and though no Maſter thereof, came nearer the ſenſe of it than our Author, (was very angry with the Act of Navigation, and gave for one Argument againſt it, That Whales have no Ships) and there<g ref="char:EOLhyphen"/>fore no having Oil from <hi>Greenland.</hi> I may with as great Truth, and more to the purpoſe, tell the Author, Whales conſume no <hi>Indian</hi> Commodities; nor are the Fiſh of <hi>Newfoundland</hi> catch'd with Tea or Coffee; yet it is demonſtrable it was that, and other Fiſhing, was the original and foundation of the Riches and Navigation of theſe Kingdoms; and our neglect of them, the decay of both to us, and Inriching and Growth of the Navigation of our Neighbours.</p>
+            <p>Nor do I find that the <hi>Eaſt-India</hi> Trade gave us an equivalent in either, but the contrary, carried out our Bullion, abated our Seamen; I might enumerate our other Trades, as our Foreign Plantations that are not ſupported by <hi>India</hi> Commo<g ref="char:EOLhyphen"/>dities; but to avoid prolixity, I affirm, There is not one Trade we drive in the World, but we might, and did manage formerly, without any of the <hi>Eaſt India</hi>
+               <pb n="20" facs="tcp:95738:14"/>Commodities; and <hi>Spain</hi> excepted, to moſt other parts where we ſend any, it is Trifles.</p>
+            <p>Upon the whole, our Author reſolves, That whoever hath the Trade of the <hi>Eaſt-Indies,</hi> will command the Trade of the whole World. Which hath as great weight in it, as if he ſhould tell us, That whoever ingroſs'd the <hi>Canary</hi> Birds in the Iſland of <hi>Teneriff,</hi> would command the whole Traffick of their Wines.</p>
+            <p>He miſtakes the World, or would have our Legiſlators do ſo, when he ſays the Curioſities and Gaiety of <hi>Indian</hi> Luxury will govern them.</p>
+            <p>And now let us enquire into the Inte<g ref="char:EOLhyphen"/>grity of our Author's Arguing in this Point of the Trade in general to the <hi>Eaſt-Indies:</hi> The pretence of his Eſſays is to give Reaſons againſt the Bill for Prohibi<g ref="char:EOLhyphen"/>ting <hi>Perſian</hi> Silks, <hi>&amp;c.</hi> which after he hath by his ſeveral Computes brought down to an Hundred thouſand Pounds <hi>per Ann.</hi> that is ſo much conſumed at Home,</p>
+            <p>He goes on to prove, That by the reſt of the <hi>Indian</hi> Trade, there is Six hundred thouſand Pounds, Neat Profit to the Na<g ref="char:EOLhyphen"/>tion: And here he comes and tells us the
+<pb n="21" facs="tcp:95738:14"/>dreadful Conſequence of loſing the whole Trade, without the leaſt pretence that the Prohibition of this Bill will bring it on us, for that would Confute his for<g ref="char:EOLhyphen"/>mer Aſſertions.</p>
+            <p>What he then deſigns by his Predicti<g ref="char:EOLhyphen"/>ons, he muſt give us leave to gueſs; I am loath to do it with Reflection, therefore ſhall do it with as ſoft words as poſſible, it muſt be either to amuſe the Nation with the danger of loſing ſo Great and Bene<g ref="char:EOLhyphen"/>ficial a Trade as the Paſſing this Bill will bring upon them; or it muſt be to breed Jealouſies among the People of the Go<g ref="char:EOLhyphen"/>vernment; if it be the firſt, by a falſe repreſentation to throw dirt upon the Bill, under pretence of the Loſs of the whole Trade of the <hi>Eaſt-Indies,</hi> it is diſingeni<g ref="char:EOLhyphen"/>ous to make ſuch falſe Inferences, accu<g ref="char:EOLhyphen"/>mulating Miſchiefs, that will attend the Nation by the Loſs of a Trade; which allowing his own Arguments, is affected but One ſixth part in the Groſs of their Importation, and that cannot be Fifty thouſand Pounds abatement of their Pre<g ref="char:EOLhyphen"/>fit; but to be more fair than this Gentle<g ref="char:EOLhyphen"/>man is, he knows, or they that employ him, that the Conſumption of <hi>Eaſt-India</hi> Silks, <hi>Bengalls,</hi> &amp;c. is of more conſidera<g ref="char:EOLhyphen"/>tion
+<pb n="22" facs="tcp:95738:15"/>to them, than their whole Trade be<g ref="char:EOLhyphen"/>ſide; and the Reaſon is this, which is a ſecret perhaps to many of their Friends, who otherwiſe might not be ſo;</p>
+            <p>If the <hi>Eaſt-India</hi> Company could car<g ref="char:EOLhyphen"/>ry their point in having a Toleration of the wear of <hi>Eaſt-India</hi> Manufactories, they would have that Trade entirely in their own hands, they would have no Rivals in the <hi>Indies,</hi> becauſe the <hi>Dutch,</hi> or other Nations, could not Import them into <hi>England,</hi> we having already the Act of Navigation to Prohibit them; and there is no other Nation in the World ſo ſupplied with Money, and faulty in their Conduct, as to purchaſe their Deſtruction in the wearing Foreign Manufactories to the Abatement of their own.</p>
+            <p>But if the <hi>Eaſt India</hi> Company (for it is their Intereſt this Gentleman Advo<g ref="char:EOLhyphen"/>cates) have liberty to furniſh us with <hi>Indian</hi> Manufactories, they will enlarge it to more than what is now complained of; there is the ſame room for them, as there was at firſt to carry over Patterns to the <hi>Indians</hi> to direct them in the making Silks fit for our wear; nor is it reaſonable to believe they will be Limited only to Silks: Why ſhould they not carry our
+<pb n="23" facs="tcp:95738:15"/>Wool to the <hi>Eaſt-Indies,</hi> (they have ſtowage enough in their Ships, a Fifth part of their Hold takes in all their out<g ref="char:EOLhyphen"/>ward-bound Cargo) and plead the ne<g ref="char:EOLhyphen"/>ceſſity of it, as they do about <hi>Rumney-Marſh,</hi> that their Countrey is waſte ſince the Act paſs'd laſt Seſſions is ſo hard upon them; an Act which deſerves to be writ in Letters of Gold, ſince it hath done that which no Law could ever reach unto before: But I digreſs, and therefore muſt return to the <hi>Eaſt-India</hi> Trade.</p>
+            <p>If what I have here ſaid in this laſt Paragraph be <hi>tanti,</hi> there needs no more to ſhew the Neceſſity of making a ſpeedy Law to prohibit the Avaricious Practices of thoſe men that would Sacrifice their own Countrey for their private Gain; beat out the moſt proſperous Manufa<g ref="char:EOLhyphen"/>ctory in the World; deſtroy and root out Thouſands, I may ſay Millions, of the moſt Sober, Religious, and well-diſpoſed people in the Nation, who have in long Deſcent preſerved to their Poſterity the firſt acceptable Sacrifice, that of the Fleece, which Divinity it ſelf ſeems to bleſs them with from <hi>Abel.</hi>
+            </p>
+            <p>I now come to the latter; That if it be not to throw a falſe Gloſs on the Bill,
+<pb n="24" facs="tcp:95738:16"/>it muſt be to breed jealouſies among the People againſt the Government; I hope it is not ſo deſigned; but if it be not, what does he mean by ſo often telling us the <hi>Dutch</hi> will Govern us? He is indeed careful of not bringing himſelf under the Laſh of the Houſe of Commons, when he expreſſes himſelf thus; <hi>That ſome per<g ref="char:EOLhyphen"/>ſons without Doors, either bribed by the</hi> Dutch, <hi>or to flatter that Intereſt, profeſs themſelves open Enemies to the Traffick in general.</hi> But though he be careful to de<g ref="char:EOLhyphen"/>fend himſelf againſt the Parliament; yet he ſeems ſhort in his Politicks to fly upon all without doors, ſome of whom have been within, and may be again; and however, all <hi>Engliſh</hi> men that are for this Bill, <hi>&amp;c.</hi> are Arraigned by him, ei<g ref="char:EOLhyphen"/>ther to be bribed by the <hi>Dutch,</hi> or flatter<g ref="char:EOLhyphen"/>ers of that Intereſt; I affect not tramp<g ref="char:EOLhyphen"/>ling on Men whoſe unhappy Principles render them obnoxious to the Law, and all honeſt Men; and therefore I will not ſay what might juſtly be returned on this Reflection; but I muſt own my ſelf a Friend to the Intereſt of the <hi>Dutch,</hi> be<g ref="char:EOLhyphen"/>cauſe they are under the Government of our King; Allies; and more, our Brethren in the Proteſtant Religion; and yet more,
+<pb n="25" facs="tcp:95738:16"/>the happy Aſſiſtants of our King in the greateſt Deliverance this Nation ever had from Popery and Slavery. But after all this, I affirm for my ſelf, and believe it for all who are for this Bill, That we neither receive Bribes, nor flatter the <hi>Dutch</hi> Intereſt in this matter; the Au<g ref="char:EOLhyphen"/>thor, I believe, is alſo free from Bribes, though he may receive Wages, both from the <hi>Jacobites</hi> and <hi>Eaſt-India</hi>-Company. I now come to his Remarks on Trade <hi>page</hi> 25. which are ſo abſurd and contradictory to the former part of this Tract, that, I think, only to repeat one and the other, would be the moſt merciful way to re<g ref="char:EOLhyphen"/>prove him; but that would ſwell theſe Sheets beyond the Bounds I deſign them; I ſhall therefore here only repeat a few Lines of his in Page 10; they are theſe; <hi>In a Trading Nation the Bent of all the Laws ſhould tend to the Incouragement of Commerce, and all meaſures ſhould be there taken with a due regard to its Intereſt and Advantage.</hi>
+            </p>
+            <p>Now in Page 25 he ſpeaks thus:</p>
+            <p>
+               <hi>Trade is in its nature free, finds its own channel, and beſt directs its own courſe; and all Laws to give it Rules and Directi<g ref="char:EOLhyphen"/>ons, and to Limit and Circumſcribe it, may
+<pb n="26" facs="tcp:95738:17"/>ſerve the particular Ends of Private Men, but are ſeldom Advantagious to the Publick.</hi>
+            </p>
+            <p>I ſhould not take notice of this Gen<g ref="char:EOLhyphen"/>tleman's piecing in ſeveral things in his Diſcourſe taken out of an Eſſay of Trade, Entituled, Part the Firſt of Five, but that he here mixes and divides it to the defa<g ref="char:EOLhyphen"/>cing it, whereas it was of uſe, when whole and duly plac'd.</p>
+            <p>In Page 26 he tells us his wonder at the Act for Burying in Woollen; and conſidering the time it was made in, ſo do I, for it was directly againſt the <hi>French</hi> Intereſt, as well as this Gentleman's ſenſe.</p>
+            <p>The Burying in Woollen ſaved the Ex<g ref="char:EOLhyphen"/>ports of more than Five hundred thou<g ref="char:EOLhyphen"/>ſand Pounds <hi>Sterling, per Ann.</hi> and moſt of that to <hi>France;</hi> for the common Peo<g ref="char:EOLhyphen"/>ple he would have Buried in old Sheets, generally preſerved their Wedding Sheet, and Shifts, or purchaſed Finer; And is it not then better Conduct in a Nation to employ their own Hands to Work, than Purchaſe it with their Money from Fo<g ref="char:EOLhyphen"/>reigners?</p>
+            <p>He ſnaps at Notions in Trade, as Fiſh do at falſe Baits; it is true whatever is conſumed at Home of our own Manufa<g ref="char:EOLhyphen"/>ctories, adds nothing to the Riches of a
+<pb n="27" facs="tcp:95738:17"/>Nation, but if conſuming at home Twen<g ref="char:EOLhyphen"/>ty Shillings, ſaves the Expence of Forty Shillings from abroad, then it is a Profit to the Nation, and that is the caſe in this matter. What Spirit guides this Gen<g ref="char:EOLhyphen"/>tleman, I cannot tell, but he is very angry with our own Manufactories, and would not have them uſed either by our Living or our Dead; I know not how he brings this in againſt the Bill, and there<g ref="char:EOLhyphen"/>fore ſhould have paſs'd it by, but that I do not know but that he may iſſue forth new Problems to prove it the Intereſt of the Nation to Bury in <hi>Perſian</hi> Silks, and Bengalls.</p>
+            <p>I now come to Page 30, to Page 33, where he ſaith, <hi>Suppoſe</hi> 200000 <hi>l. per Ann. of the prime Sum ſent to</hi> India, <hi>is returned in Commodities for our Conſumption; and ſuppoſe half this Sum to be returned in ſuch Goods as are worn here in the room of Wool<g ref="char:EOLhyphen"/>len Manufactories.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>From One hundred thouſand Pounds prime Coſt to</hi> India, <hi>there may reaſonably be ex<g ref="char:EOLhyphen"/>pected Goods that Sell for</hi>
+                     </cell>
+                     <cell>400,000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>So that by ſending to</hi> India</cell>
+                     <cell>100,000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>We Gain for our own Conſumption,</hi>
+                     </cell>
+                     <cell>300,000</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="28" facs="tcp:95738:18"/>
+            <p>
+               <hi>This muſt be clear Profit to the Kingdom, becauſe that Sum would be otherwiſe conſumed in our own Product, which Product we are by this means enabled to Export.</hi>
+            </p>
+            <p>This, <hi>prima facie,</hi> looks like true Arguing; but upon ſearch it appears fal<g ref="char:EOLhyphen"/>lacious, for theſe Two Reaſons:</p>
+            <p>Firſt, If he means this Hundred thou<g ref="char:EOLhyphen"/>ſand Pounds to be ſent in Money, then it is certainly ſo much Loſs to the Nation, being Conſumed at home; and I hope our Author will allow whatever is Con<g ref="char:EOLhyphen"/>ſumed at home, though it were of our own Product, is no Gain to the Nation.</p>
+            <p>And then what is Conſumed at the Expence of our Money, is ſo much Loſs.</p>
+            <p>But I ſuppoſe this Computation of the Author's, is upon Money, and that is ſo much loſs to the Nation, however great the Returns are.</p>
+            <p>But I will, to help the Argument, ſup<g ref="char:EOLhyphen"/>poſe that we have thoſe Commodities the Bill Prohibits, in return of our Woollen Manufactories, which in the former part of his Argument he moſt untruly aſſerts; but I ſay, ſuppoſe it were ſo, yet the miſchief were the ſame to the Nation; I will go farther, and ſuppoſe his Ally the <hi>Mogul</hi> would ſend us over
+<pb n="29" facs="tcp:95738:18"/>
+               <hi>Gratis</hi> as much yearly as would Cloath the Nation, even that would be our Ruin; to explain this I muſt look back to Page 27, where he expreſſeth himſelf thus:</p>
+            <p>
+               <hi>I have reaſon to think that the People re<g ref="char:EOLhyphen"/>ceiving Alms in this Kingdom, are Twelve hundred thouſand;</hi> and if it be ſo, and I doubt it is the trueſt Computation in his Eſſay, How many more ſhould we have if this Nation were Cloathed in the <hi>Mo<g ref="char:EOLhyphen"/>gul</hi>'s Livery? I dare not conteſt with the Author in Politicks, (that being his Pro<g ref="char:EOLhyphen"/>vince, as Trade is mine) but methinks he is aſtray in his Myſteries of State, to Argue, That the Cheap Cloathing of our Nation by <hi>Eaſt-India</hi> and <hi>Perſian</hi> Fabrick, would be an Advance to their Wealth and Power. I always thought that the Bodies of Men were the Treaſure and Strength of a Nation, and that it was Wiſdom to Increaſe and Employ them, and the contrary if the Gentry and Men of Fortunes ſhould reject the Labour of their own People, becauſe they can be Cheaper and Finer Cloathed from other Countries.</p>
+            <p>This is ſomething like the Fable of the Hands Mutinying againſt the Belly; but
+<pb n="30" facs="tcp:95738:19"/>here it is revers'd, the Belly Mutinies with the Hands: If our Gentry refuſe to be Cloathed by their own Hands, I would gladly know how the Author intends to provide for the Landed Men of this Na<g ref="char:EOLhyphen"/>tion when he hath deſtroyed all their Te<g ref="char:EOLhyphen"/>nants, for it is the Artiſans and Manufa<g ref="char:EOLhyphen"/>ctorers of the Kingdom that conſume the greateſt part of the natural Product of the Land; but for this he hath a quick Remedy, <hi>the leſs we ſpend at home, the more we ſend abroad:</hi> He has, I muſt confeſs, put me long ſince paſt wondring at his Notions in Trade, or I ſhould bluſh at the weakneſs of this Argument; Did he ever hear of a Market for more of our Cloth and Stuffs than we had to ſupply them? The Author wants a good Me<g ref="char:EOLhyphen"/>mory, which if he had, he would re<g ref="char:EOLhyphen"/>member, that in another part of this Tract he tells us, <hi>That the great Vent we had for our Manufactories Two Years ago, was occa<g ref="char:EOLhyphen"/>ſioned by the badneſs of our Coin, and heigth of Guineas;</hi> and it was ſo; which is de<g ref="char:EOLhyphen"/>monſtration that our People can Manu<g ref="char:EOLhyphen"/>facture double the Quantity of their uſu<g ref="char:EOLhyphen"/>al ſtint, for ſo they did the time our Author mentions; which ſhews, that if we were fully ſupplied with work, it
+<pb n="31" facs="tcp:95738:19"/>might leſſen the Twelve hundred thou<g ref="char:EOLhyphen"/>ſand now on Alms.</p>
+            <p>The Author hath yet a Reſerve left; which is, Let theſe Clothiers and Weavers turn Fiſhers, and catch Herrings: His Reſentments are againſt that Fiſh, becauſe the <hi>Dutch</hi> make ſo great a Gain of it; but in this he alſo is miſtaken in his Spi<g ref="char:EOLhyphen"/>rit of Traffick; we could not make that Advantage of Herrings they do, unleſs we could prevail with them to <hi>Eat,</hi> as he would with us to <hi>Wear,</hi> a Foreign Pro<g ref="char:EOLhyphen"/>duct, and ſend their own People to look out for ſome new Employment.</p>
+            <p>We ſhould alſo want the Rivers and Paſſages into <hi>Germany, Flanders,</hi> &amp;c. to tranſport our Herrings to.</p>
+            <p>I was expecting to hear him aſſign us the Fiſhing of <hi>Newfoundland</hi> for the Wea<g ref="char:EOLhyphen"/>vers; but recollecting my ſelf, I remem<g ref="char:EOLhyphen"/>ber the <hi>French</hi> have raiſed their Navigati<g ref="char:EOLhyphen"/>on and Strength at Sea out of that fiſhing, and he will not diſturb them.</p>
+            <p>Fiſhing, I own, is a Jewel we ſeem not to underſtand. Such Guides in Trade, and Stateſmen as this Author, I have often heard ſay, Diſcourſes of Trade, and employing the Poor, would diſturb the King's Buſineſs. The truth on't is,
+<pb n="32" facs="tcp:95738:20"/>we ſhall ſoon be quiet, if the <hi>Mogul</hi> cloath us, and the <hi>French</hi> catch our Fiſh for us.</p>
+            <p>I do not ſee any thing we have left to ſet us up again in Trade, but our Manu<g ref="char:EOLhyphen"/>factory at home, and Plantations abroad; the improving the firſt enlarges the latter.</p>
+            <p>I have been the longer on this Head, That the Cheapneſs of the <hi>Indian</hi> Fabrick is no Argument of Force for our Con<g ref="char:EOLhyphen"/>ſumption of them at home; becauſe on the Strength of that Point lies all that hath the appearance of weight in the Ar<g ref="char:EOLhyphen"/>gument for Defence of the <hi>Indian</hi> Manu<g ref="char:EOLhyphen"/>factory conſumed in <hi>England.</hi>
+            </p>
+            <p>I ſubmit to better Judgments what I have here ſaid againſt them; and whe<g ref="char:EOLhyphen"/>ther it be not the Intereſt of our Nation to find out Work for their own People, though they ſhould make no other uſe of it, than the <hi>Dutch</hi> do of their Spice, burn it when they have more than they can ſell. But it would be improvidence to burn our own, to make room for <hi>Indian</hi> Manufactories; as we muſt do, ſince it is apparent we cannot ſell them abroad, and our People muſt ſtarve, if they do not work; and ſo they would indeed, if the Author's Advice were embrac'd, to make them undertake this New Employment.</p>
+            <pb n="33" facs="tcp:95738:20"/>
+            <p>It would be an admirable Advance and Improvement of our Nation, to take off our hands from a Manufactory that none but our ſelves can take from us; God and Nature having aſſign'd it to us ſepa<g ref="char:EOLhyphen"/>rate from the whole World, and put ſo many Thouſand Men, Women, and Children, for all ſuch are employ'd in the Woollen Manufactory, to catch Her<g ref="char:EOLhyphen"/>rings, that ſo a few men might grow Great by the <hi>Eaſt-India</hi> Trade, the beſt of whom never added ſo much to their Countrey, as one Weaver doth by his Loom.</p>
+            <p>I am now at his Second Head, the Silk and Linnen Manufactory: He begins a diſtinct Chapter of it in Page 34, but ſaith nothing of it until Page 38. His Words are theſe:</p>
+            <p>
+               <hi>Silk is a Manufactory of Foreign Ex<g ref="char:EOLhyphen"/>tract; it employs indeed the Poor, but is not compoſed from a Material of our own Growth. Whatever Encouragement it meets with, it cannot thrive with us.</hi> He runs on with his Rhetorical Obſervations, and debates what the Nation ſhould do in this matter; and tells us in Page 39. The Stock and Induſtry laid out on the Silk Manufactories, would be more uſefully
+<pb n="34" facs="tcp:95738:21"/>employ'd in ſuch as are made from Mate<g ref="char:EOLhyphen"/>rials of our own Growth.</p>
+            <p>The Author now ſeems more an Ob<g ref="char:EOLhyphen"/>ject of Pity, than an Adverſary to anſwer; his Zeal for the <hi>Eaſt-India</hi> Company hath carried him beyond his Learning in the Schools, and below his Prophetick Spirit in Trade: I ſhall only remark, That here he adviſes to take off the Silk-Wea<g ref="char:EOLhyphen"/>vers from their Trade, which to uſe his own Words, <hi>They fell into without a force, as Trade is moſt proſperous when it does:</hi> But here he tells us, They muſt be taken off their Trade, and put upon ſome other, more profitable to the Nation.</p>
+            <p>To ſave trouble of confuting ſo irra<g ref="char:EOLhyphen"/>tional a Propoſition, I ſhall repeat his Opinion in Page 25. by which we ſhall ſee how diſtracted this Gentleman is in his Notions of Trade: His Words are theſe:</p>
+            <p>
+               <hi>Trade is in its own Nature free, finds its own Channel, and beſt directs its own Courſe; and all Laws to give it Rules and Directions, and to limit and circumſcribe it, may ſerve the particular Ends of Private Men, but are ſeldom advantageous to the Publick.</hi>
+            </p>
+            <p>But to do the Author right, theſe laſt Lines were deſign'd to ſerve the <hi>Eaſt-In<g ref="char:EOLhyphen"/>dia</hi>
+               <pb n="35" facs="tcp:95738:21"/>Company; he would not have them diſturbed in the Trade of <hi>Eaſt-India</hi> and <hi>Perſian</hi> Silks, <hi>&amp;c.</hi> And tho' this Maxim was then undoubtedly true, yet it is not ſo when it reaches the Silk-Weavers.</p>
+            <p>He goes on with Arguments of the ſame piece, to Page 46. which in favour of the Author I do not repeat; and ſhall only ſay, That I did not think it poſſible ſo many Contradictions and unpracticable Notions could be crowded into ſo few ſheets, garniſh'd up with fine Words; and that often goes further with men not vers'd in the Nature of Trade, than plain Practical Truths.</p>
+            <p>He comes now to his Third and Laſt Head, the Eſſect ſuch a Prohibition as the Bill deſigns, will have on the <hi>Eaſt-India</hi> Trade in general; and he begins thus in <hi>Page</hi> 46, and ends with his Eſſay in 16 <hi>Pages,</hi> which are moſt part fill'd with Repetitions and Obſervations of his own, which have little in them worth a Reply; the whole terminates in this, <hi>That this Prohibition of the Wear of</hi> Eaſt-India <hi>and</hi> Perſian <hi>Silks,</hi> &amp;c. <hi>will abate one half of the</hi> Eaſt-India <hi>Trade.</hi> The ſhort<g ref="char:EOLhyphen"/>eſt way to anſwer this, is as I have done before, bring one part of his Book to an<g ref="char:EOLhyphen"/>ſwer
+<pb n="36" facs="tcp:95738:22"/>the other. In <hi>Page</hi> 16. he aſſerts in theſe words; <hi>So the Account of</hi> England <hi>with the</hi> Indies <hi>and</hi> European <hi>Nations, may be thus balanc'd:</hi>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Returns exported yield</hi> per An.</cell>
+                     <cell>800,000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Returns conſumed at home, are to the Nation,</hi>
+                     </cell>
+                     <cell>200,000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Total</hi>
+                     </cell>
+                     <cell>1,000,000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Deduct for the Prime Coſt,</hi>
+                     </cell>
+                     <cell>400,000</cell>
+                  </row>
+                  <row>
+                     <cell>England<hi>'s Neat Profit by the Traffick,</hi>
+                     </cell>
+                     <cell>600,000</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Let us now ſee what he ſaith in <hi>Pag.</hi> 53. his words are as follow, <hi>According to the beſt and moſt impartial Accounts I can re<g ref="char:EOLhyphen"/>ceive, the Bill in agitation muſt loſe</hi> Eng<g ref="char:EOLhyphen"/>land <hi>half the Trade to</hi> India <hi>in general, all the Traffick to the Coaſt and Bay of</hi> Bengall, <hi>and all the Buſineſs to</hi> Surat, <hi>and particular<g ref="char:EOLhyphen"/>ly as to to the Coaſt and Bay.</hi>
+            </p>
+            <p>In <hi>Page</hi> 54. are theſe words;</p>
+            <p>
+               <hi>I take our Home-Conſumption, which is half of the Returns of the Prime Coſt ſent to</hi> India, <hi>to be the main foundation upon which the Trade ſtands.</hi>
+            </p>
+            <p>Can there be any thing more contra<g ref="char:EOLhyphen"/>dictory, than in <hi>Page</hi> 16. to ſtate the Ac<g ref="char:EOLhyphen"/>count
+<pb n="37" facs="tcp:95738:22"/>Two hundred thouſand Pounds con<g ref="char:EOLhyphen"/>ſumed at Home, and clear Gain to the Nation, beſides Six hundred thouſand on the Exports; and here to ſay that the Bill will be the loſs of half the Trade in ge<g ref="char:EOLhyphen"/>neral, all the Trade to the Coaſt and Bay of <hi>Bengall,</hi> all the Buſineſs to <hi>Surat.</hi> His former Computations made it a good Trade without the Conſumption at home, but now he tells us the Prohibition will render the whole Trade unprofitable.</p>
+            <p>I ſhall now in few words ſum up my Senſe of the Bill, and the Arguments gi<g ref="char:EOLhyphen"/>ven by the Author againſt it. By all that he brings againſt the Bill, I cannot ſee that it affects the <hi>Eaſt-India</hi> Trade, more than in a Sixth part at preſent.</p>
+            <p>On the Weavers ſide, for I take them to be the Parties for the Bill, it affects them and the Nation in the real loſs of four times as much as the <hi>Eaſt-India</hi> Company would loſe if the Prohibition were confirmed; for it is to be noted, that a Hundred thouſand pounds in the <hi>Eaſt-India</hi> Capital, takes Four hundred thou<g ref="char:EOLhyphen"/>ſand pounds in the Expence of the Nati<g ref="char:EOLhyphen"/>on, and that hinders ſo much in the Em<g ref="char:EOLhyphen"/>ployment of our own Manufactories.</p>
+            <pb n="38" facs="tcp:95738:23"/>
+            <p>The Queſtion is then, Whether is moſt to be conſidered, A Million of People at Home, or thoſe few in the <hi>Eaſt-India</hi> Trade?</p>
+            <p>But the Author will tell us by this Prohibition, we ſhall hinder our Foreign Trade, for that other Nations will carry away that when they can ſupply them with <hi>Eaſt-India</hi> Commodities, and we cannot. This Deluſion is eaſily diſcover<g ref="char:EOLhyphen"/>ed, though it may be the Author is a Stranger to it.</p>
+            <p>Granting then, though it is not ſo, that the <hi>Dutch</hi> and other Nations will ſell to the <hi>Spaniards, Portugueſe,</hi> &amp;c. Callicoes, <hi>Perſian</hi> Silks, <hi>&amp;c.</hi> they muſt have Wines and other Commodities in Return; and what will they do with them? Bring them to <hi>England</hi> they cannot, we have a good defence againſt that, the Act of Naviga<g ref="char:EOLhyphen"/>tion, which makes all Goods Coun<g ref="char:EOLhyphen"/>terband that are not Imported into <hi>England,</hi> in <hi>Engliſh</hi> Ships, or the Ships of the Countrey where they are produced. Will the <hi>Dutch</hi> then, or others, conſume the Wines of <hi>Spain,</hi> &amp;c. and leave us none? that would not be our Loſs.</p>
+            <pb n="39" facs="tcp:95738:23"/>
+            <p>But our Author goes farther, and tells us, That we ſhall bring theſe <hi>Eaſt-India</hi> Goods from other Nations at 50 <hi>l. per Cent.</hi> a dearer Rate; this is Anſwered be<g ref="char:EOLhyphen"/>fore. The Act of Navigation prohibits their Importation, unleſs the <hi>Mogul</hi> ſends them with his own Ships and Men. Be<g ref="char:EOLhyphen"/>fore I go off this Head; Give me leave to ſhew how the Author uſes the Nati<g ref="char:EOLhyphen"/>on in his Remarks on the <hi>Eaſt-India</hi> Trade. I mention this, becauſe I have met with men of value, who have been deluded by his falſe Recitals and Compu<g ref="char:EOLhyphen"/>tations, which they would not have been, had they taken the trouble of comparing one part of his Notes with the other, which was neceſſary for me in Anſwering him to do. I muſt therefore look back again to <hi>Page</hi> 16. where he makes all the Exports both of Bullion and Manufa<g ref="char:EOLhyphen"/>ctories ſent Yearly to the <hi>Eaſt-Indies</hi> to amount unto Four hundred thouſand Pounds, the Profit of which, beſide the Conſumption at home, to be Neat to the Nation 600,000 Pounds; what he aſcribes to the Nation (and here he ſhews more Cunning than in all the reſt of his Book, and keeps it for his laſt ſtroke in Page 52.) he muſt mean, and ſo in ano<g ref="char:EOLhyphen"/>ther
+<pb n="40" facs="tcp:95738:24"/>place explains it, to be the Profit of the Company, and the Merchant that Buys them here for Exportation; this he jum<g ref="char:EOLhyphen"/>bles together, that ſo he may apply this Six hundred thouſand Pounds by turns as it will ſupport his Arguments: When he would have us believe the Trade of great importance to the Nation, then it is Six hundred thouſand Pounds Profit to them, but when it is needful to ſhew how much it is the Intereſt of the Nation to encou<g ref="char:EOLhyphen"/>rage the Company in Building great Ships, then it is the Companies, and ena<g ref="char:EOLhyphen"/>bled them to make War with the <hi>Mogul,</hi> Build Forts, <hi>&amp;c.</hi> thus it is like my Lord Mayor's ſtanding Pye, one day it is a Gooſe Pye, the next day changing the Head, and putting on a Turky's Head, it is a Turky Pye.</p>
+            <p>I muſt keep you longer on this part of his Eſſays than I intended, becauſe I think there will need no more to diſprove all this Gentleman hath ſaid in defence of the Company againſt the Bill.</p>
+            <p>I have before given you his Computa<g ref="char:EOLhyphen"/>tions of the original Stock and Profit; I ſhall now ſhew his cloſing-Article in theſe words, Page 52, <hi>That they have not one Year with another divided</hi> 20 l. per Cent.
+<pb n="41" facs="tcp:95738:24"/>
+               <hi>which conſidering the length and hazard of their Voyage, is not a Profit to be envied.</hi> He is in the right if it were ſo, nor were the Trade worth ſtrugling for, if the Pro<g ref="char:EOLhyphen"/>fit were ſo ſmall.</p>
+            <p>But we will do that which I fear the Author hath forgot, caſt up his Com<g ref="char:EOLhyphen"/>putation here, and compare it with his in Page 16, where he makes the Capital ſent out to be Four hundred thouſand Pounds, and the Profit by what is Shipped out to be Six hundred thouſand Pounds; this makes the Profit to be 150 <hi>l. per Cent.</hi> and yet he tells us here, That their Profit is, <hi>communibus annis</hi> but 20 <hi>l. per Cent.</hi> This is a great Error in Arithmetick; I will therefore paſs it by as ſuch, and take him in his more conſiderate ſtating the Ac<g ref="char:EOLhyphen"/>count; and then it will ſtand thus; The Gain ariſing out of the <hi>Eaſt-India</hi> Trade being Six hundred thouſand Pounds, brought to that Sum by the Profit of 20 <hi>per Cent.</hi> muſt have a Capital ſent out, amounting unto Three Millions <hi>Sterling.</hi> This being ſo, as it muſt, if the Author would have us believe his Computation, it muſt follow, that we ſend out Two Millions nine hundred thouſand Pounds <hi>Sterling</hi> in Bullion Yearly; for in his
+<pb n="42" facs="tcp:95738:25"/>largeſt Computation he ſpeaks but of One hundred thouſand Pounds exported in the Commodities of the Kingdom. I don't think either of his Computations are true; but I believe this of Three Millions is neareſt the mark.</p>
+            <p>The difference in theſe Computations of Four hundred thouſand Pounds Capi<g ref="char:EOLhyphen"/>tal, and Three Millions, was to have paſſed under the Gooſe-pye. 20 <hi>per Cent.</hi> might have paſs'd well enough, if this unlucky Rule of Three had not put the Queſtion, What Capital muſt there be to make a Profit of Six hundred thouſand Pounds, at the Rate of 20 <hi>per Cent.?</hi> and the Anſwer is, Three MilliOns.</p>
+            <p>But the Author hath yet a Shift left, it is now a Turkey-pye, the Gooſe-head being taken off, and this Six hundred thouſand Pounds Profit was meant to be to the Nation, as well as the Company.</p>
+            <p>This will appear a pretty fair Explana<g ref="char:EOLhyphen"/>tion in reading, as indeed the whole Eſſay may to men of the Author's own under<g ref="char:EOLhyphen"/>ſtanding in Trade; but let us take it with this Interpretation, that it is the Nati<g ref="char:EOLhyphen"/>on's Gain, and the Company's both; the Company's he has determined to 20 <hi>per Cent.</hi> ſo then their Proportion for the
+<pb n="43" facs="tcp:95738:25"/>Capital of Four hundred thouſand Pounds is but Eighty thouſand; then there re<g ref="char:EOLhyphen"/>mains Five hundred and twenty thouſand Pounds to the Nation, as he calls it: But to explain this farther, the Nation are moſt part <hi>Jews,</hi> and Factors that buy for men abroad; and ſuch I never thought a National Fund: But allowing theſe Ex<g ref="char:EOLhyphen"/>ports to be by Merchants of our own, let us ſee what their Profit is: He tells us they ſhip out Six hundred thouſand Pounds value yearly; ſo then the Mer<g ref="char:EOLhyphen"/>chants at home gain almoſt <hi>Cent. per Cent.</hi> as Five hundred and twenty thouſand Pounds is to Six hundred thouſand Pounds: If this be ſo, the <hi>Eaſt-India</hi> Company deſerve their Statues in Gold, not only for being good and Publick ſpi<g ref="char:EOLhyphen"/>rited men, but Fathers to their Countrey; and we ought to pray them to be more kind to themſelves, and take at leaſt half the Profit.</p>
+            <p>I think it needleſs to explain this mat<g ref="char:EOLhyphen"/>ter, it is ſo notorious: I ſhall only ſay, Such Advocates and Computers are in my opinion the moſt fatal Enemies to the Company.</p>
+            <p>Having in this Diſcourſe occaſion to an<g ref="char:EOLhyphen"/>ſwer this Author's Maxims, perhaps I
+<pb n="44" facs="tcp:95738:26"/>may be thought an Enemy to the Trade and Company; which I think my ſelf obliged to deny; for I believe it a Noble Trade, and the Intereſt of the Nation to preſerve it; but ſo as it may not preju<g ref="char:EOLhyphen"/>dice our Manufactories, and by that means drive out that we moſt want, the Bodies of Men, which when all is done, is the Treaſure of a Nation.</p>
+            <p>The Uſe I make of theſe Explanations, is to ſhew that our Author writes at Ro<g ref="char:EOLhyphen"/>vers. I ſhould not be thus plain, but that I think there is a neceſſity to expoſe a man that, in my opinion, labours the deſtruction of the Nation with gilded Baits, which he hopes may paſs, becauſe men of the greateſt weight have neither Leiſure nor Opinion, That it is worth their time to examine narrowly the ſpuri<g ref="char:EOLhyphen"/>ous Notions of ſuch Officious Pens.</p>
+            <p>I ſhall take my leave of the Author, with this Remark, leaving an hundred more that might be made on his Eſſays; which is, That is ſeems ſtrange in him who pretends to be ſo great a <hi>Rabbi</hi> and Maſter of Commerce, and gives general Notions of moſt Trades, to leave out the <hi>Turky</hi>-Company; it muſt be, that they tread on the heels of his Maſters, the
+<pb n="45" facs="tcp:95738:26"/>
+               <hi>Eaſt-India</hi> Company; and could tell him, that the Cloath they ſo much boaſt their Exportation of, abates only ſo much of what they ſhould ſend out, and bring Re<g ref="char:EOLhyphen"/>turns for in Raw Silks, Grograin, Yarn, Cotton Wooll, <hi>&amp;c.</hi> that we here manu<g ref="char:EOLhyphen"/>facture and ſend abroad; inſtead of which the <hi>East-India</hi> Trade brings us home <hi>China</hi> Cups, Fans, Cabinets, <hi>&amp;c.</hi> Theſe things are ſo apparent, that I cannot think the Author only faulty in his Judgment, but were are under the misfortune of having ſome men among us, that take all oppor<g ref="char:EOLhyphen"/>tunities of alienating the Affections of the People from the Government; and nothing could be more effectual than this of forcing Thouſands of harmleſs and in<g ref="char:EOLhyphen"/>duſtrious People to beg their Bread, or fly to other Countries to earn it. We have too freſh in our memories, That in the year 1665. one <hi>Tillham</hi> carried out of the Kingdom Three thouſand Perſons to the Prince <hi>Palatine</hi> of the <hi>Rhine,</hi> of the ſame Profeſſion this Author would deſtroy.</p>
+            <p>But I think we live under a Govern<g ref="char:EOLhyphen"/>ment that will bring us more, not deſtroy the People we already have. And I am humbly of opinion, that 'tis not the way to invite new, by ſtarving them we have.</p>
+            <pb n="46" facs="tcp:95738:27"/>
+            <p>I ſhall ſay no more, but that as I believe this Bill to be the beſt Antidote that ever was given this Nation, againſt a Poyſon which would certainly deſtroy it, ſo I think thoſe Worthy Patriots that promo<g ref="char:EOLhyphen"/>ted it, worthy of Eternal Honour.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:95738:27"/>
+         </div>
+      </body>
+   </text>
+</TEI>
